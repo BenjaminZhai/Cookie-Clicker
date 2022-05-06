@@ -50,7 +50,7 @@ function manupg(){
     if (plus >= mcost){
     plus -= mcost
     manclick += 10
-    acost += 10
+    mcost += 10
     }
 
     score.innerHTML = plus
